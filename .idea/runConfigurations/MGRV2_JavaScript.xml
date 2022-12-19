@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MGRV2 JavaScript" type="JavascriptDebugType" editBeforeRun="true" uri="https://ea.jetbrains.com/login" useFirstLineBreakpoints="true">
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="https://ea.jetbrains.com/login" withDebugger="true" />
+    </method>
+  </configuration>
+</component>
